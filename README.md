@@ -4,7 +4,7 @@ I'm **BraidenCodez15**!
 
 ## About Me
 I'm a tech enthusiast who loves the East Coast and its vibrant culture. 
-I'm currently working as the Vice President of Client Relations at **NorthEast Host**, where I get to combine my passion for technology with my skills in client relations.
+I'm currently working as the Vice President of Client Relations at **Northeast**, where I get to combine my passion for technology with my skills in client relations.
 
 ## What I Do
 At NorthEast Host, I'm responsible for managing and improving our client relationships. I work closely with our clients to understand their needs and ensure we're providing the best possible service.
