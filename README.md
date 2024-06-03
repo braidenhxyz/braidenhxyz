@@ -11,6 +11,9 @@ At NorthEast Host, I'm responsible for managing and improving our client relatio
 I also collaborate with our technical team to develop and innovative hosting solutions. 
 My role allows me to stay at the forefront of the latest trends and technologies in the web hosting industry.
 
+In addition to my role at NorthEast Host, I also serve as a beta tester for RGB Productions. My responsibilities include conducting thorough testing for the Windows and Android versions of SoTD to ensure optimal performance and user experience.
+
+
 ## Interests
 In my free time, I enjoy chilling and relaxing. 
 I'm also interested in D&D fantasy worlds and tech-related topics.
