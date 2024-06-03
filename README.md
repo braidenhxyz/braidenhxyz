@@ -7,7 +7,7 @@ I'm a tech enthusiast who loves the East Coast and its vibrant culture.
 I'm currently working as the Vice President of Client Relations at **Northeast**, where I get to combine my passion for technology with my skills in client relations.
 
 ## What I Do
-At NorthEast Host, I'm responsible for managing and improving our client relationships. I work closely with our clients to understand their needs and ensure we're providing the best possible service.
+At Northe, I'm responsible for managing and improving our client relationships. I work closely with our clients to understand their needs and ensure we're providing the best possible service.
 I also collaborate with our technical team to develop and innovative hosting solutions. 
 My role allows me to stay at the forefront of the latest trends and technologies in the web hosting industry.
 
