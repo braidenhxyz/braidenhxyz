@@ -8,7 +8,7 @@ I'm currently the **Company Secretary** at **Nexwave Development LTD** (UK COMPA
 
 ## Connect with Me:
 <p align="left">
-<a href="https://bsky.app/profile/braidenh.xyz"><img src="https://i.imgur.com/zVwbWwf.png" alt="Bluesky" width="37" height="37" /></a> 
+<a href="https://bsky.app/profile/braidenh.xyz"><img src="https://imgur.com/gallery/bluesky-logo-2N2If3L" alt="Bluesky" width="37" height="37" /></a> 
 <a href="https://www.twitch.tv/EastyCoastyBraiden"><img src="https://i.imgur.com/0pAkilW.png" alt="Twitch" width="37" height="37" /></a>
 </p>
 
