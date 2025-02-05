@@ -6,7 +6,8 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 
 ### 🚀 What I Work On
 - **Company**: Company Secretary at [Nexwave Development LTD](https://nexwavedevelopment.co.uk/) (Company House #15484641)
-- **Hosting Services**: Co-founder of [NebularHost](https://nebular.host)
+- **Hosting Services**: Founder & CEO of [NebularHost](https://nebular.host)
+- **Radio Station**: Station Administrator of [Melody Radio](https://itsmelody.net)
 - **Automation & Bots**: Developing bots for Discord and server management
 
 ### 🌟 Projects & Interests
