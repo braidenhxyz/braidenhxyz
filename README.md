@@ -20,8 +20,8 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 
 ### 📫 Get in Touch
 - **Website**: [https://braidenh.xyz](https://braidenh.xyz)
-- **Discord**: braidenh.xyz
+- **Discord**: westcoastbraiden
 - **GitHub**: [@braidenhxyz](https://github.com/braidenhxyz)
-- **Email**: [contact@braidenh.xyz](mailto:contact@braidenh.xyz)
+- **Email**: [me@braidenh.xyz](mailto:me@braidenh.xyz)
 
 Thanks for stopping by! Feel free to check out my repos and star anything you find interesting. 🚀✨
