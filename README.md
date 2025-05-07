@@ -28,5 +28,6 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 - **Website**: [https://braidenh.com](https://braidenh.com)
 - **Discord**: westcoastbraiden
 - **Email**: [braiden@braidenh.com](mailto:braiden@braidenh.com)
+- **Linkedin**: [https://www.linkedin.com/in/braiden-hill-779050273/](https://www.linkedin.com/in/braiden-hill-779050273/)
 
 Thanks for stopping by! Feel free to check out my repos and star anything you find interesting. 🚀✨
