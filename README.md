@@ -5,23 +5,28 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 ---
 
 ### 🚀 What I Work On
-- **Company**: Company Secretary at [Nexwave Development LTD](https://nexwavedevelopment.co.uk/) (Company House #15484641)
-- **Hosting Services**: Founder & CEO of [NebularHost](https://nebular.host)
-- **Radio Station**: Station Administrator of [Melody Radio](https://itsmelody.net)
-- **Automation & Bots**: Developing bots for Discord and server management
+- **Aoura Development LTD**: IT operations manager at [Aoura Development LTD](https://aouradev.com/) (Company House #15484641)
+- **Northeast Hosting**: Vice President of [Northeast Hosting](https://northeast-host.com)
 
-### 🌟 Projects & Interests
-- Cloud hosting and automation
-- Web development & scripting
-- Game server management & optimization
-- Exploring new technologies
+### 🌟 Skills
+- Back-end & Front-end Development (Node.js, React, Next.js)
+- Server Management & Hosting Infrastructure
+- Technical Leadership & Project Management
+- Cloud Services & DevOps (AWS, Docker, CI/CD)
+- System Architecture & IT Engineering
+
+### 🌟 Certifications
+- cPanel | cPanel & WHM System Administrator I
+- Cisco | Networking Devices and Initial Configuration
+- Hurricane Electric | IPv6 Certification
+- Cisco | Networking Basic
+- Cisco | Introduction to Cybersecurity
 
 ---
 
 ### 📫 Get in Touch
-- **Website**: [https://braidenh.xyz](https://braidenh.xyz)
+- **Website**: [https://braidenh.com](https://braidenh.com)
 - **Discord**: westcoastbraiden
-- **GitHub**: [@braidenhxyz](https://github.com/braidenhxyz)
-- **Email**: [me@braidenh.xyz](mailto:me@braidenh.xyz)
+- **Email**: [braiden@braidenh.com](mailto:braiden@braidenh.com)
 
 Thanks for stopping by! Feel free to check out my repos and star anything you find interesting. 🚀✨
