@@ -7,6 +7,7 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 ### 🚀 What I Work On
 - **Aoura Development LTD**: IT operations manager at [Aoura Development LTD](https://aouradev.com/) (Company House #15484641)
 - **Northeast Hosting**: Vice President of [Northeast Hosting](https://northeast-host.com)
+- Active Maintainer of **Project Badger**
 
 ### 🌟 Skills
 - Back-end & Front-end Development (Node.js, React, Next.js)
