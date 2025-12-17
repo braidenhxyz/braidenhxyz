@@ -6,6 +6,8 @@ Welcome to my GitHub! I'm a tech enthusiast who enjoys building and experimentin
 
 ### 🚀 What I Work On
 - Discord Bots
+- Symphony Radio, Director
+- Random Shell Scripts for Linux
 
 ### 🌟 Skills
 - Back-end & Front-end Development (Node.js, React, Next.js)
